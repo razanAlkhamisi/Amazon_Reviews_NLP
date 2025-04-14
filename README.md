@@ -33,6 +33,7 @@ The goal is to extract useful insights from customer reviews and present them in
 - Scikit-learn
 - OpenAI API (GPT-3.5)
 
+ For model file(tf_model.h5): https://drive.google.com/file/d/1P5Yjh3FhkPnCGLqNnlYRQ6AY3ebuf8ss/view?usp=sharing
 ---
 
 ## Author
