@@ -6,14 +6,19 @@ This project focuses on analyzing customer product reviews using Natural Languag
 
 ---
 
-## Overview
+## 🚀 Overview  
+This project transforms raw customer feedback into actionable business intelligence. By using advanced Deep Learning and Transformer models, it goes beyond simple word counts to understand the true sentiment and core themes within thousands of reviews. It helps businesses quickly identify what customers love and where they struggle without reading every single comment.
+---
 
-The goal is to extract useful insights from customer reviews and present them in a clear, structured way. The workflow includes:
+## 🛠️ Detailed Workflow
+Sentiment Classification (BERT):
+Fine-tuned a BERT-base model to capture the nuances of customer language, achieving high accuracy in distinguishing between positive, neutral, and negative feedback.
 
-- Preprocessing and cleaning review text  
-- Fine-tuning BERT for sentiment classification  
-- Clustering products into broader categories using embeddings  
-- Summarizing reviews for top and worst products using BART and GPT models  
+Product Clustering (Embeddings):
+Utilized Sentence-BERT (SBERT) to create vector representations of products, allowing for the automatic grouping of similar items even when they don't share the same keywords.
+
+Summarization (BART & GPT):
+Implemented a dual-approach to summarization. BART was used for concise technical summaries, while GPT-3.5 was leveraged for more natural, human-like summaries of top pros and cons.
 
 ---
 
@@ -33,11 +38,10 @@ The goal is to extract useful insights from customer reviews and present them in
 - Scikit-learn
 - OpenAI API (GPT-3.5)
 
- For model file(tf_model.h5): https://drive.google.com/file/d/1P5Yjh3FhkPnCGLqNnlYRQ6AY3ebuf8ss/view?usp=sharing
+ For model file(tf_model.h5): 
+ 
+  https://drive.google.com/file/d/1P5Yjh3FhkPnCGLqNnlYRQ6AY3ebuf8ss/view?usp=sharing
 ---
 
-## Author
 
-Razan Alkhamisi  
-AI Engineer | Data Analyst 
 
