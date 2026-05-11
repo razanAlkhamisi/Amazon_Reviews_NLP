@@ -1,14 +1,17 @@
 
 
-# Product Reviews Analysis with NLP
+## Product Reviews Analysis with NLP
 
 This project focuses on analyzing customer product reviews using Natural Language Processing techniques. It includes sentiment classification, category clustering, and review summarization using transformer-based models.
 
 ---
 
 ## 🚀 Overview  
+
 This project transforms raw customer feedback into actionable business intelligence. By using advanced Deep Learning and Transformer models, it goes beyond simple word counts to understand the true sentiment and core themes within thousands of reviews. It helps businesses quickly identify what customers love and where they struggle without reading every single comment.
+
 ---
+
 
 ## 🛠️ Detailed Workflow
 Sentiment Classification (BERT):
@@ -39,8 +42,9 @@ Implemented a dual-approach to summarization. BART was used for concise technica
 - OpenAI API (GPT-3.5)
 
  For model file(tf_model.h5): 
- 
-  https://drive.google.com/file/d/1P5Yjh3FhkPnCGLqNnlYRQ6AY3ebuf8ss/view?usp=sharing
+
+https://drive.google.com/file/d/1P5Yjh3FhkPnCGLqNnlYRQ6AY3ebuf8ss/view?usp=sharing
+
 ---
 
 
