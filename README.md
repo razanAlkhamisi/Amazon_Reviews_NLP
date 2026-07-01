@@ -51,14 +51,13 @@ Implemented a dual-approach to summarization. BART was used for concise technica
 
 
 
-```
 <img width="1075" height="680" alt="pos" src="https://github.com/user-attachments/assets/f6fe7f28-5f9e-4bd3-8a23-0e9b48d25639" />
 
-```
-```
+---
+
 <img width="1075" height="680" alt="neg" src="https://github.com/user-attachments/assets/72901472-1ceb-4a4c-ad54-943793fa8022" />
 
-```
+---
 
 ### Batch Review Analysis
 
