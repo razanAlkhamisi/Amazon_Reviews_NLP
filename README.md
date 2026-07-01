@@ -51,23 +51,23 @@ Implemented a dual-approach to summarization. BART was used for concise technica
 
 
 
-<img width="1000" height="550" alt="pos" src="https://github.com/user-attachments/assets/f6fe7f28-5f9e-4bd3-8a23-0e9b48d25639" />
+<img width="700" height="400" alt="pos" src="https://github.com/user-attachments/assets/f6fe7f28-5f9e-4bd3-8a23-0e9b48d25639" />
 
 ---
 
-<img width="1000" height="550" alt="neg" src="https://github.com/user-attachments/assets/72901472-1ceb-4a4c-ad54-943793fa8022" />
+<img width="700" height="400" alt="neg" src="https://github.com/user-attachments/assets/72901472-1ceb-4a4c-ad54-943793fa8022" />
 
 ---
 
 ### Batch Review Analysis
 
-<img width="1000" height="550" alt="pross" src="https://github.com/user-attachments/assets/ee7a1813-1c86-4655-aebe-160c8bc75416" />
+<img width="700" height="400" alt="pross" src="https://github.com/user-attachments/assets/ee7a1813-1c86-4655-aebe-160c8bc75416" />
 
 ---
-<img width="1000" height="550" alt="chart" src="https://github.com/user-attachments/assets/8a02f239-c9f7-419b-8a9e-e50360e39447" />
+<img width="700" height="400" alt="chart" src="https://github.com/user-attachments/assets/8a02f239-c9f7-419b-8a9e-e50360e39447" />
 
 ---
-<img width="1000" height="550" alt="table" src="https://github.com/user-attachments/assets/73357047-259b-4928-9d0c-18744a3671ac" />
+<img width="700" height="400" alt="table" src="https://github.com/user-attachments/assets/73357047-259b-4928-9d0c-18744a3671ac" />
 
 
 ---
