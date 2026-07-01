@@ -27,7 +27,8 @@ Implemented a dual-approach to summarization. BART was used for concise technica
 
 ## Features
 
-- **Sentiment Classification**: Trained a BERT model to classify reviews into positive, neutral, and negative.
+- **Binary Sentiment Classification**: Fine-tuned a BERT model to classify customer reviews as **Positive** or **Negative**.
+- **Multi-Class Sentiment Classification**: Extended the model to classify reviews into **Positive**, **Neutral**, and **Negative** sentiments.
 - **Product Clustering**: Used sentence embeddings and clustering methods to group similar products.
 - **Summarization**: Generated summaries for each category using BART and GPT-3.5, highlighting top products and common complaints.
 
@@ -40,6 +41,41 @@ Implemented a dual-approach to summarization. BART was used for concise technica
 - SentenceTransformers
 - Scikit-learn
 - OpenAI API (GPT-3.5)
+
+---
+
+## 📸 Application Preview
+
+
+### Single Review Analysis
+
+
+
+```
+<img width="1075" height="680" alt="pos" src="https://github.com/user-attachments/assets/f6fe7f28-5f9e-4bd3-8a23-0e9b48d25639" />
+
+```
+```
+<img width="1075" height="680" alt="neg" src="https://github.com/user-attachments/assets/72901472-1ceb-4a4c-ad54-943793fa8022" />
+
+```
+
+### Batch Review Analysis
+
+> *(Add a screenshot here)*
+
+```
+images/batch_analysis.png
+```
+### Dashboard
+
+> *(Add a screenshot here)*
+
+```
+images/dashboard.png
+```
+
+---
 
  For model file(tf_model.h5): 
 
